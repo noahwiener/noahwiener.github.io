@@ -3039,3 +3039,12 @@
 				}
 
 	}
+
+	.projectimg {
+		max-width: 100%;
+		max-height: 300px;
+	}
+	.divider {
+		margin-top: 15px;
+		border-bottom: solid 1px #dddddd;
+	}
